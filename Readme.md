@@ -11,19 +11,10 @@ A simple blog website built using **HTML** and **CSS**.
 ## Getting Started
 
 1. Clone the repository:
-    ```bash
+    
     git clone https://github.com/yourusername/blogwebsite.git
-    ```
+
 2. Open `index.html` in your browser.
-
-## Folder Structure
-
-```
-/blogwebsite
-  ├── index.html
-  ├── styles.css
-  └── posts/
-```
 
 ## Customization
 
