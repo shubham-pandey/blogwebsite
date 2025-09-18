@@ -20,7 +20,3 @@ A simple blog website built using **HTML** and **CSS**.
 
 - Edit `index.html` to add or update blog posts.
 - Modify `styles.css` to change the appearance.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
